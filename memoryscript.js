@@ -10,7 +10,7 @@ const COLORS = [
     "yellow",
     "green",
     "blue",
-    "purple"
+    "purple",
     "red",
     "orange",
     "yellow",
