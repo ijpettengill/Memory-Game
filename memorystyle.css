@@ -1,0 +1,7 @@
+﻿#game div {
+    border: 5px solid black;
+    width: 15%;
+    margin: 10px;
+    height: 200px;
+    display: inline-block;
+}
